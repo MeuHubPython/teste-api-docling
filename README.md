@@ -3,11 +3,11 @@
 
 1. Faça o build da imagem Docker:
    ```bash
-   docker build -t docling-api .
+   docker build -t teste-api-docling .
    ```
 2. Rode o container:
    ```bash
-   docker run -d -p 8000:8000 docling-api
+   docker run -d -p 8000:8000 teste-api-docling
    ```
 3. Acesse a API em `http://<IP-da-VPS>:8000/docs`
 
