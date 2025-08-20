@@ -1,6 +1,5 @@
-# Exemplo de README para deploy com Docker/Easypanel
 
-## Como usar
+# Como usar
 
 1. Faça o build da imagem Docker:
    ```bash
